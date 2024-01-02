@@ -1,0 +1,2 @@
+# ornekcalisma
+bu çalışma örnektir
